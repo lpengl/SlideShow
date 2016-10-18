@@ -1,0 +1,19 @@
+{
+  "name": "slideshow",
+  "version": "0.9.0",
+  "author": "Larry Liu <l_peng_l@qq.com>",
+  "description": "图片轮播，基于原生JavaScript",
+  "keywords": [
+    "slideshow"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-uglify": "~0.4.0"
+  }
+}
