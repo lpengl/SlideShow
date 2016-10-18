@@ -2,7 +2,7 @@
 
 module.exports = {
 	sayHello: function(){
-		console.log("Hello from base.");
+		console.log("Hello from base.(browserify!)");
 	}
 };
 },{}],2:[function(require,module,exports){
@@ -100,4 +100,4 @@ function slideCore(context, destPicIndex, finalMarginLeft){
 }
 
 new SlideShow("slideShow");
-},{"./base.js":1}]},{},[2]);
+},{"./base.js":1}]},{},[1,2]);
