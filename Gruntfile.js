@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     },
     cssmin: {
       minify: {
-          src: 'dist/css/slideShow.css',
+          src: 'src/css/slideShow.css',
           dest: 'dist/css/slideShow.min.css'
       }
     }
